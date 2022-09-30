@@ -1,1 +1,1 @@
-# youtube
+This is our replica of YouTube's Home Page.
